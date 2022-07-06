@@ -1,0 +1,23 @@
+{
+    "data": [{
+            "title": "Best-in-class learning environment",
+            "description": "A unique countryside location linking the indoors to the outdoors with extensive ‘fresh-air’ play to promote curiosity, imagination, and creativity.A well-equipped playground where children learn, play and grow! Licensed and inspected facilities where all standards are met. Classes enriched with educational programs and activities.",
+            "image": "/img/logo/Teacher-pana.svg"
+        },
+        {
+            "title": "Excellent location with high safety and security services",
+            "description": "Lise Day Care Centre premises are monitored. With 24hours surveillance camera and equipped with personal protective equipment",
+            "image": "/img/logo/Drone surveillance-amico.svg"
+        },
+        {
+            "title": "Inspiring leadership and ambition",
+            "description": "The extensive credentials, knowledge, skills, expertise, and experience of the Day Care Centre Director. The knowledge and expertise of a highly qualified, committed, dedicated, motivated and energetic staff team. Staffing over and above the recommended ratios in a safe, warm, loving, and secure environment.",
+            "image": "/img/logo/Art-cuate.svg"
+        },
+        {
+            "title": "Partnership and flexibility",
+            "description": "‘Parents as Partners’ – an open-door, consultative attitude putting parents at the heart of their child’s education. Payment of school fees in installments gives parent a flexibility on cash flow management. Dedicated parking area – drop off and pick up easily and safely.",
+            "image": "/img/logo/Back to school-amico.svg"
+        }
+    ]
+}
