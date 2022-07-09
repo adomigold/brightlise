@@ -37,7 +37,7 @@ export default function ContactUs() {
                                     <ul className="list-unstyled mb-0">
                                         <li className="mb-0">0713 785 875</li>
                                         <li className="mb-0">0715 223 190</li>
-                                        <li className="mb-0">info@lisepreschool.co.tz</li>
+                                        <li className="mb-0">info@liseschools.ac.tz</li>
                                     </ul>
                                 </div>
                             </div>
