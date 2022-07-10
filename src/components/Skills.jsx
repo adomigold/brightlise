@@ -4,7 +4,7 @@ export default function Skills({ skills }) {
     return (
         <>
             <div className="mx-md-0 mx-auto" style={{ maxWidth: "500px" }}>
-                <h2 className="mb-md-5 mb-4">Why Choose Bright Lise?</h2>
+                <h2 className="mb-md-5 mb-4">Why Choose Lise Schools</h2>
                 {skills.data.map(skill => (
                     <div key={skill.title} className="d-md-flex align-items-start d-block mb-4 pb-2">
                         <Image className="mb-md-0 mb-4" src={skill.image} width={'250px'} height={'250px'} alt="Icon" />

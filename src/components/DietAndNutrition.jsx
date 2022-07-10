@@ -20,7 +20,7 @@ export default function DietAndNutrion() {
                                 curiosity and playful learning. If we introduce children to healthy eating now, it is much more likely that they
                                 will continue to make healthy food choices as they grow up. <br/><br/>
 
-                                Lise Day Care Centre is providing a healthy and nutritious food which is prepared by our chief cook – within LISE
+                                Lise Schools is providing a healthy and nutritious food which is prepared by our chief cook – within LISE
                                 kitchenette. Your child will receive a breakfast at 10am, hot two-course lunch at 1pm and a porridge at 3pm before
                                 going back home.
                             </p>

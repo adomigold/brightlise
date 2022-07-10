@@ -8,7 +8,7 @@ export default function VisionList() {
                 Positive, caring relationships based on trust and respect, are at the heart of our philosophy.
             </p>
             <p>
-                <strong>We have a clear vision of what we want to achieve at Lise Day Care Centre:</strong>
+                <strong>We have a clear vision of what we want to achieve at Lise Schools:</strong>
             </p>
             <ul className="list-unstyled fs-sm pb-1 d-table mx-auto mx-md-0">
                 <li className="d-flex mb-2"><i className="ai-check-circle text-success fs-lg me-3"></i><span>To provide a safe, happy, caring and stimulating environment for your child.</span></li>

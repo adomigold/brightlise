@@ -18,7 +18,7 @@ export default function AboutUs() {
                                 <div className="accordion-collapse collapse" id="faq-content-1" aria-labelledby="faq-heading-1" data-bs-parent="#faq">
                                     <div className="accordion-body">
                                         <div className="fs-sm">
-                                            LISE Day care Centre is offering day-care and pre-school education on a part- or full-time basis
+                                            Lise Schools is offering day-care and pre-school education on a part- or full-time basis
                                             for children from 0-6 years old. The Centre is located at Boko Timiza area – Kibaha District, near
                                             Boko Timiza Primary school.
                                             <br /><br />
@@ -27,7 +27,7 @@ export default function AboutUs() {
                                             dedicated and specialist professionals who will support your child’s learning, physical and
                                             emotional wellbeing.
                                             <br /><br />
-                                            At Lise Day Care Centre, We also work towards environmental protection and respecting UNICEF Rights.
+                                            At Lise Schools, We also work towards environmental protection and respecting UNICEF Rights.
                                         </div>
                                     </div>
                                 </div>
@@ -42,7 +42,7 @@ export default function AboutUs() {
                                 <div className="accordion-collapse collapse" id="faq-content-2" aria-labelledby="faq-heading-2" data-bs-parent="#faq">
                                     <div className="accordion-body">
                                         <div className="fs-sm">
-                                            Lise Day Care Centre is led by Day Care Centre Director, who is supported by a team of Qualified Cleaners, Cooks,
+                                            Lise Schools is led by Day Care Centre Director, who is supported by a team of Qualified Cleaners, Cooks,
                                             Gardeners, Drivers and other  Day Care Centre assistants completes  the highly qualified Lise  team.
                                         </div>
                                     </div>
@@ -58,12 +58,12 @@ export default function AboutUs() {
                                 <div className="accordion-collapse collapse" id="faq-content-3" aria-labelledby="faq-heading-3" data-bs-parent="#faq">
                                     <div className="accordion-body">
                                         <div className="fs-sm">
-                                            You as parents/guardians are the prime educators of our children in their earliest years. At Lise Day
-                                            Care Centre, we clearly recognize that you have a critical role to play in working with us to support
+                                            You as parents/guardians are the prime educators of our children in their earliest years. At Lise Schools,
+                                            we clearly recognize that you have a critical role to play in working with us to support
                                             child’s development and learning. We recognize that children do better when parents / guardians, carers
                                             and staff work closely together.
-                                            <br/><br/>
-                                            Lise Day care Centre has an open-door policy whereby parents/ Guardians are encouraged to pay a
+                                            <br /><br />
+                                            Lise Schools has an open-door policy whereby parents/ Guardians are encouraged to pay a
                                             visit and have a discussion on matters related to child growth and learnings. Staff are always
                                             available to listen to your comments or suggestions and  work hard to build meaningful and positive
                                             relationships with you.It is only by working together that we can be THE BEST!

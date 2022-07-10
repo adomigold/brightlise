@@ -6,7 +6,7 @@ export default function ChildrenHelpedWith() {
             <div className="col-lg-4 col-md-5 order-md-2 text-center text-md-start mb-5 mb-md-0">
                 <h2 className="mb-3">Curriculum</h2>
                 <p className="text-muted mb-4 pb-2">
-                    Daily life is full of many learning opportunities for your child right from the moment of birth. At Lise Day Care Centre,
+                    Daily life is full of many learning opportunities for your child right from the moment of birth. At Lise Schools,
                     we believe that every day is a learning day. Even the most routine tasks can lead to learning, which is not only enjoyable,
                     but helps to give your child the very best start in life!
                 </p>
