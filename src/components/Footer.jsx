@@ -1,4 +1,5 @@
 import React from "react";
+import Script from "next/script";
 import ContactUs from "./ContactUs";
 
 export default function Footer() {
@@ -34,6 +35,8 @@ export default function Footer() {
                     </div>
                 </div>
             </footer>
+            <Script src="/js/bootstrap.bundle.min.js" />
+            <Script src="/js/theme.min.js" />
         </>
     )
 }

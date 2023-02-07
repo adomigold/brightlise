@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function NavTabs() {
     return (
         <div className="offcanvas offcanvas-collapse order-lg-2" id="primaryMenu">
@@ -8,16 +10,29 @@ export default function NavTabs() {
             <div className="offcanvas-body">
                 <ul className="navbar-nav">
                     <li className="nav-item dropdown dropdown-mega active">
-                        <a className="nav-link" href="#1">Who are we</a>
+                        <Link href="/#1">
+                            <a className="nav-link">Who are we</a>
+                        </Link>
                     </li>
                     <li className="nav-item dropdown">
-                        <a className="nav-link" href="#2">Diet & Nutrition</a>
+                        <Link href="/#3">
+                            <a className="nav-link">About Us</a>
+                        </Link>
                     </li>
                     <li className="nav-item dropdown">
-                        <a className="nav-link" href="#3">About Us</a>
+                        <Link href="/#2">
+                            <a className="nav-link" href="#2">Diet & Nutrition</a>
+                        </Link>
                     </li>
                     <li className="nav-item dropdown">
-                        <a className="nav-link" href="#4">Contact Us</a>
+                        <Link href="/#4">
+                            <a className="nav-link">Contact Us</a>
+                        </Link>
+                    </li>
+                    <li className="nav-item dropdown">
+                        <Link href="/gallery">
+                            <a className="nav-link">Gallery</a>
+                        </Link>
                     </li>
                 </ul>
             </div>

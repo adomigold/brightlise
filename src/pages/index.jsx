@@ -11,7 +11,7 @@ import AboutUs from "../components/AboutUs";
 import Footer from "../components/Footer";
 
 
-export default function Home({services}) {
+export default function Home({services, about}) {
   return (
     <>
       <main className="page-wrapper">
@@ -21,7 +21,7 @@ export default function Home({services}) {
         <Curriculum/>
         <DietAndNutrion/>
         <Visions/>
-        <AboutUs/>
+        <AboutUs about={about}/>
         <Footer/>
       </main>
     </>
@@ -32,9 +32,14 @@ export async function getStaticProps() {
   const fileservices = path.join(process.cwd(), 'assets/jsons/services.json');
   const serviceData = await fsPromises.readFile(fileservices);
   const services = JSON.parse(serviceData);
+
+  const fileAbout = path.join(process.cwd(), 'assets/jsons/about_us.json')
+  const aboutData = await fsPromises.readFile(fileAbout)
+  const about = JSON.parse(aboutData)
   return{
     props:{
-      services:services
+      services:services,
+      about:about
     }
   }
 }

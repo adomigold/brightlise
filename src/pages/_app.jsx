@@ -1,4 +1,4 @@
-import { useEffect } from "react"
+import React from "react"
 import Head from "next/head"
 
 
@@ -8,14 +8,9 @@ import '../../assets/vendor/tiny-slider/dist/tiny-slider.css'
 
 
 function MyApp({ Component, pageProps }) {
-  useEffect(() => {
-    import("../../assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js")
-    import('../../assets/js/theme.min.js')
-  }, [])
-
-  return(
+  return (
     <>
-    <Head>
+      <Head>
         {/* Required meta tags */}
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -23,9 +18,9 @@ function MyApp({ Component, pageProps }) {
         {/* Favicon icon */}
         <link rel="shortcut icon" type="image/x-icon" href="/img/logo/ico.jpg" />
         <title>Brigth Lise - Pre and Primary School</title>
-    </Head>
+      </Head>
 
-    <Component {...pageProps} />
+      <Component {...pageProps} />
     </>
   )
 }
