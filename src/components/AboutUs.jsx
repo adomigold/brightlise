@@ -9,7 +9,7 @@ export default function AboutUs({ about }) {
                     <div className="col-lg-6">
                         <div className="accordion" id="faq">
                             {about.data.map((a, i) => (
-                                <div className="accordion-item shadow">
+                                <div key={i} className="accordion-item shadow">
                                     <h2 className="accordion-header" id={`faq-heading-${i}`}>
                                         <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target={`#faq-content-${i}`} aria-expanded="false" aria-controls={`faq-content-${i}`}>

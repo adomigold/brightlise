@@ -42,7 +42,7 @@ export default function ContactUs() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-6 col-xl-5 offset-xl-1 gallery" lg-uid="lg1">
+                        <div className="col-md-6 col-xl-5 offset-xl-1 gallery">
                             <a className="gallery-item map-popup border rounded-3" target="_blank" rel="noreferrer"
                                 href="https://www.google.com/maps/search/Kibaha+Bokotimiza/@-6.8023083,38.9027307,13z/data=!3m1!4b1"
                                 data-iframe="true"

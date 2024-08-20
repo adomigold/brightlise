@@ -29,11 +29,6 @@ export default function NavTabs() {
                             <a className="nav-link">Contact Us</a>
                         </Link>
                     </li>
-                    <li className="nav-item dropdown">
-                        <Link href="/gallery">
-                            <a className="nav-link">Gallery</a>
-                        </Link>
-                    </li>
                 </ul>
             </div>
         </div>
