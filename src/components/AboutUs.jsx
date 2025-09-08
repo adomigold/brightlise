@@ -28,7 +28,7 @@ export default function AboutUs({ about }) {
                         </div>
                     </div>
                     <div className="d-none d-lg-block col-lg-5 offset-lg-1 bg-light shadow-lg rounded-3 p-1 mb-grid-gutter text-center text-sm-start">
-                        <img className="card-img-top card-img-bottom" src="/img/logo/AboutUs.jpg" alt="Illustration" />
+                        <img className="card-img-top card-img-bottom" src="/img/logo/Aboutus.jpeg" alt="Illustration" />
                     </div>
                 </div>
             </section>

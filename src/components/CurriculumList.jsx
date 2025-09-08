@@ -1,11 +1,10 @@
-import React from "react";
 import ReactReadMoreReadLess from 'react-read-more-read-less'
 
 export default function CurriculumList() {
     return (
         <>
             <div className="col-lg-8 col-md-7 order-md-1 bg-position-start-bottom bg-repeat-0" style={{ "backgroundImage": "url(img/logo/bg-shape.svg)" }}>
-                <div className="mx-auto mx-md-0 ms-xl-7" style={{ "maxWidth": "600px" }}>
+                <div className="mx-auto mx-md-0 ms-xl-0" style={{ "maxWidth": "600px" }}>
                     <div className="row align-items-center">
                         <div className="col-sm-6">
                             <div className="bg-light shadow-lg rounded-3 p-4 mb-grid-gutter text-center text-sm-start">

@@ -29,7 +29,7 @@ export default function DietAndNutrion() {
                             <div className="parallax ms-auto" style={{ "maxWidth": "600px", "transform": "translate3d(0px, 0px, 0px) rotate(0.0001deg)", "transformStyle": "preserve-3d", "backfaceVisibility": "hidden", "pointerEvents": "none" }}>
                                 <img className="d-block" src="/img/logo/lines.png" alt="Lines" style={{ "transform": "translate3d(0px, 0px, 0px)", "transformStyle": "preserve-3d", "backfaceVisibility": "hidden", "position": "relative", "display": "block", "left": "0px", "top": "0px" }} />
                                 <div className="parallax-layer" style={{ "zIndex": "2", "transform": "translate3d(5.7px, 2.2px, 0px)", "transformStyle": "preserve-3d", "backfaceVisibility": "hidden", "position": "absolute", "display": "block", "left": "0px", "top": "0px" }} data-depth="0.15">
-                                    <img src="/img/logo/Cooking.png" alt="Image" />
+                                    <img src="/img/logo/kid-eating.jpeg" alt="Image" style={{width:'350px', height:'350px', marginTop:'110px'}} />
                                 </div>
                             </div>
                         </div>

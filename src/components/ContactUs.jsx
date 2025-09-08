@@ -44,11 +44,10 @@ export default function ContactUs() {
                         </div>
                         <div className="col-md-6 col-xl-5 offset-xl-1 gallery">
                             <a className="gallery-item map-popup border rounded-3" target="_blank" rel="noreferrer"
-                                href="https://www.google.com/maps/search/Kibaha+Bokotimiza/@-6.8023083,38.9027307,13z/data=!3m1!4b1"
+                                href="https://maps.app.goo.gl/jnBmUhXNmZZwTfBB9"
                                 data-iframe="true"
                                 data-sub-html="<h6 className=&quot;fs-sm text-light&quot;>396 Lillian Blvd, Holbrook, NY 11741</h6>">
-                                <img src="/img/logo/map.png" alt="Maps" />
-                                <span className="gallery-caption">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.600224991454!2d38.950186099999996!3d-6.818380200000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x185c690094ac735b%3A0x63a354286910629!2sLise%20Schools%20Kibaha%20-%20Daycare%2C%20Pre%20%26%20Primary!5e0!3m2!1sen!2stz!4v1757316656097!5m2!1sen!2stz" width="600" height="450" style={{ border: "0" }} allowfullscreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe><span className="gallery-caption">
                                     <i className="ai-maximize-2 fs-xl mt-n1 me-2"></i>View the map
                                 </span>
                             </a>
