@@ -14,12 +14,12 @@ export default function VisionImagesList() {
                         </div>
                         <div className="col-sm-6">
                             <div className="bg-light shadow-lg rounded-3 p-3 mb-grid-gutter text-center text-sm-start">
-                                <Image className="d-block mx-auto card-img-top card-img-bottom" src="/img/logo/visions.jpg" height="700px" alt="Features" width="705px" />
+                                <Image className="d-block mx-auto card-img-top card-img-bottom" src="/img/logo/_61A9484.JPG" height="700px" alt="Features" width="705px" />
                             </div>
                         </div>
                         <div className="col-sm-6">
                             <div className="bg-light shadow-lg rounded-3 p-3 mb-grid-gutter text-center text-sm-start">
-                                <Image className="d-block mx-auto card-img-top card-img-bottom" src="/img/logo/visions.jpg" height="700px" alt="Features" width="705px" />
+                                <Image className="d-block mx-auto card-img-top card-img-bottom" src="/img/logo/_61A9708.JPG" height="700px" alt="Features" width="705px" />
                             </div>
                         </div>
                         <div className="col-sm-6">

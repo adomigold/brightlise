@@ -8,8 +8,8 @@ export default function ToggleBtn() {
             </button>
             <Link href="/">
                 <a className="navbar-brand flex-shrink-0 order-lg-1 mx-auto ms-lg-0 pe-lg-2">
-                    <img className="d-none d-lg-block" src="img/logo/logo.jpg" alt="Around" width="150" />
-                    <img className="d-lg-none" src="img/logo/logo.jpg" alt="Around" width="150" />
+                    <img className="d-none d-lg-block" src="/img/logo/logo.jpg" alt="Around" width="150" />
+                    <img className="d-lg-none" src="/img/logo/logo.jpg" alt="Around" width="150" />
                 </a>
             </Link>
         </>
