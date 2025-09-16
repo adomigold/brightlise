@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.liseschools.ac.tz
+
+# Sitemaps
+Sitemap: https://www.liseschools.ac.tz/sitemap.xml
